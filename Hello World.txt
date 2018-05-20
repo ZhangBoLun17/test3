@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+<<<<<<< HEAD
 	cout << "Hello hello hello hello hello
 <<<<<<< HEAD
 	hahhhahahaxixixiixixi
@@ -8,6 +9,9 @@ int main() {
 	wuwuwuwuwuuw
 =======
 >>>>>>> parent of 1cf2eb9... add hahalalala
+=======
+	cout << "Hello 
+>>>>>>> parent of 731ec8b... add hello
 	hello World" << endl;
 	return 0;
 }
