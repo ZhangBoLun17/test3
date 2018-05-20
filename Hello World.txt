@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
 	cout << "Hello hello hello hello hello
+	hahhhahahaxixixiixixi
+	wulalalalalalal
 	hello World" << endl;
-	return 0;
 }
