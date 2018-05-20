@@ -2,8 +2,12 @@
 using namespace std;
 int main() {
 	cout << "Hello hello hello hello hello
+<<<<<<< HEAD
 	hahhhahahaxixixiixixi
 	wulalalalalalal
 	wuwuwuwuwuuw
+=======
+>>>>>>> parent of 1cf2eb9... add hahalalala
 	hello World" << endl;
+	return 0;
 }
